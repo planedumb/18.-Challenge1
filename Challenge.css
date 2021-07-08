@@ -1,0 +1,2944 @@
+@media (min-width: 377px){
+
+    /* Set the height of an element */
+
+
+
+
+
+
+
+#SlashDiv{
+float:left;
+color: blue;
+   font-size: 30px; 
+   font-weight: 50;
+}
+#TitleDiv{
+    padding-left: 30px;
+    padding: 5px;
+    padding-top: 8px;
+    padding-left: 30px;
+}
+#TitleText{
+    margin-left: 20px;
+    font-size: 50px;
+    color: orangered;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
+#Subtitle{
+margin-top: -15px;
+padding-left: 56px;
+font-weight: 100;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+}
+#Inscreva{
+    margin-left: 55px;
+    border-radius: 30px;
+    width: 200px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 224, 186);
+    background: rgb(1, 1, 128);
+    float: left;
+    transition: height .2s, width .2s;
+}
+#Inscreva:hover{
+    height: 65px;
+    width: 205px;
+    border: none;
+    background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+}
+#WhatsappButton{
+height: 55px;
+width: 55px;
+border-radius: 90%;
+}
+#WhatsappImage{
+height: 55px;
+border-radius: 90%;
+margin-left: -8px;
+margin-top: -3px;
+}
+#buttonImage{
+    display: inline;
+    padding-left: 20px;
+}
+#title{
+float: left;
+
+}
+.container{
+border: rgb(1, 1, 128) solid 2px;
+border-radius: 20px;
+margin-top: 40px;
+width: 700px;
+height: 435px;
+overflow: hidden;
+margin-left: 97px;
+margin-left:700px ;
+}
+.bolimg{
+background:url("Images/socialmedia/confrence.png");
+
+background-size: cover;
+position: relative;
+width: 110%;
+height: 120%;
+transition: transform .2s;
+bottom: 32px;
+left: -31px;
+}
+
+.bolimg:hover{
+background:url("Images/socialmedia/confrence.png");
+background-size: cover;
+transform: scale(1.1);
+z-index: "-1";
+}
+#attatchLogo{
+float: left;
+width: 1500px;
+}
+#logo{
+    height: 250px;
+    padding-top: 50px;
+    display: inline;
+    margin-left: -250px;
+    margin-top: -90px;
+    position: absolute;
+    z-index: "3";
+}
+#arrow{
+    position: absolute;
+    top:550px;
+    left: 200px;
+    margin-left: 50px ;
+    height: 60px;
+}
+.Title2{
+font-size: 50px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#leftArrow2{
+
+position: relative;
+left: -120px;
+bottom:-450px ;
+}
+.subtitle3{
+font-size: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 500;
+}
+#scroller{
+
+height: 660px;
+width: 1500px;
+overflow-x: scroll;
+;
+margin-bottom: 50px;
+float: left;
+}
+#leftArrow1{
+
+float: left;
+position: relative;
+top: 350px;
+left: -130px;
+}
+.box1{
+height: 530px;
+background: rgb(248, 239, 190);
+width: 550px;
+border-radius: 10px;
+display: inline-block;
+float: left;
+position: relative;
+margin: 15px;
+}
+#a1circle1{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a1circle2{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a1circle3{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line1{
+
+background: rgb(241, 179, 64);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+
+#icon-{
+position: relative;
+top: -170px;
+left: 235px;
+height: 90px;
+}
+
+#icon-2{
+position: relative;
+top: -140px;
+left: 205px;
+height: 160px;
+}
+
+.box2{
+height: 530px;
+background: rgb(245, 182, 182);
+width: 550px;
+border-radius: 10px;
+display: inline-block;
+float: left;
+
+margin: 15px;
+position: relative;
+
+
+}
+#a2circle1{
+
+    background: rgb(241, 85, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a2circle2{
+
+    background: rgb(241, 85, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a2circle3{
+
+    background: rgb(241, 85, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line2{
+
+background: rgb(241, 85, 64);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box3{
+height: 530px;
+background: rgb(253, 221, 178);
+width: 550px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+left: 100px;
+position: relative;
+margin-top: -545px;
+margin-left: 1080px;
+}
+#a3circle1{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a3circle2{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a3circle3{
+
+    background: rgb(241, 179, 64);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line3{
+
+background: rgb(241, 179, 64);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box4{
+height: 250px;
+background: rgb(163, 183, 224);
+width: 550px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+left: 150px;
+float: left;
+position: relative;
+margin-top: -545px;
+margin-left: 1605px;
+}
+#a4circle1{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a4circle2{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a4circle3{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line4{
+
+background: rgb(16, 9, 104);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.box5{
+height: 250px;
+background: rgb(163, 183, 224);
+width: 550px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+position:relative;
+left: 150px;
+margin-top: -275px;
+margin-left: 1605px;
+   
+}
+#a5circle1{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+    top: 35px;
+}
+#a5circle2{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 35px;
+
+}
+#a5circle3{
+
+    background: rgb(16, 9, 104);
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 62px;
+    top: 35px;
+
+}
+#line5{
+
+background: rgb(16, 9, 104);
+overflow: hidden;
+    height: 4px;
+    width: 400px;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+    left: -30px;
+
+}
+.carreira{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+position: relative;
+bottom: 30px;
+left: 45px;
+font-size: larger;
+
+}
+.tinyTitle{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 700;
+position: relative;
+bottom: 60px;
+left: 45px;
+font-size: 35px;
+
+
+}
+.subHeadingTinyTitle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    margin-left: 45px;
+    margin-top: 20px;
+    font-weight: 500;
+    position: relative;
+    top: -60px;
+}
+.paragraphTinyTitle{
+    margin-top: -10px;
+    margin-left: 40px;
+
+    font-size: 25px;
+    position: relative;
+    top: -60px;
+
+}
+.ParaAtraves{
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    float: left;
+}
+#Inscreva2{
+    margin-left: 55px;
+    border-radius: 30px;
+    margin-top:0px;
+    width: 200px;
+   
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 224, 186);
+    background: rgb(1, 1, 128);
+    float: left;
+    position:relative;
+    bottom:-30px;
+    float: left;
+    transition: height .2s, width .2s;
+    
+
+}
+#Inscreva2:hover{
+    height: 65px;
+    width:205px;
+  background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+        float: left;
+        border:none;
+
+}
+#Quero{
+    margin-left: 55px;
+    border-radius: 30px;
+    margin-top:0px;
+    width: 200px;
+   
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(1, 1, 128);
+    background: rgb(255, 255, 255);
+    float: left;
+    position:relative;
+    bottom:-30px;
+    transition: border .2s;
+    transition: height .2s, width .2s;
+
+}
+#Quero:hover{
+ height: 65px;
+    width:205px;
+    border:none;
+    background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+
+
+}
+.greyBackground{
+    background: rgb(210, 222, 241);
+    height: 750px; 
+    border: blue solid 2px;
+    border-bottom: none;
+    position:relative;
+    
+}
+.titleAulas{
+
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 55px;
+    color: rgb(51, 51, 83);
+    
+}
+#circleBox1{
+
+    background: rgb(250, 238, 170);
+    border:dashed 5px rgb(255, 174, 0);
+    position: relative;
+    left: 375px;
+    top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    z-index: 0;
+
+}
+#computerIconBox1{
+
+    height: 10000px;
+    position: relative;
+    left: 35px;
+    top: -95px;
+    z-index: 1;
+
+}
+.letters{
+
+    margin-top:   -250px   ;
+
+}
+#computerIconBox1{
+height: 100px;
+position: relative;
+top: -110px;
+left: 350px;
+}
+#-computerIconBox2{
+
+position: relative;
+top: -140px;
+left: 370px;
+height: 160px;
+
+}
+
+
+
+
+#circleBox2{
+background: rgb(250, 238, 170);
+    border:dashed 5px rgb(255, 174, 0);
+    position: relative;
+    left: 370px;
+    top: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    z-index: 0;
+
+}
+#computerIconBox2{
+
+    height: 100px;
+    position: relative;
+    top: -110px;
+    left: 350px;
+
+}
+.image{
+
+    height: 100px;
+}
+.para{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+font-size: 20px;
+}
+#icon1{
+text-align: center;
+position: relative;
+left: -400px;
+}
+#icon2{
+    text-align: center;
+position: relative;
+top: -190px;
+}
+#icon3{
+    text-align: center;
+position: relative;
+left: 400px;
+top: -390px;
+
+}
+#icon4{
+    text-align: center;
+position: relative;
+top: -290px;
+left: -600px;
+}
+#icon5{
+    text-align: center;
+position: relative;
+top: -515px;
+left: -200px;
+}
+#icon6{
+    text-align: center;
+position: relative;
+top: -740px;
+left: 200px;
+}
+#icon7{
+    text-align: center;
+position: relative;
+top: -965px;
+left: 600px;
+}
+#moveUp4{
+
+position: relative;
+top: -630px;
+
+}
+#rightArrow2{
+
+position: relative;
+left: 1500px;
+top: -500px;
+
+
+}
+#wrapper{
+
+    padding-right: 100px;
+background: rgb(253, 253, 253);
+padding-left: 100px;
+height: 6440px;
+width: 1500px;
+position:absolute;
+top:200px ;
+zoom: 89%;
+overflow:hidden;
+z-index: 3;
+}
+#rightArrow1{
+position: relative;
+left: 1500px;
+top: -490px;
+
+
+
+}
+#index{
+z-index: 2;
+
+background: rgb(255, 255, 255);
+height: 150px;
+position:fixed;
+width: 20000px;
+  box-shadow: 1px 0px 50px rgb(223, 223, 223);
+left: -50px;
+top: 0px;
+
+}
+html, body {
+
+    max-width: 100px;
+    max-height:100px ;
+  padding: auto;
+  
+    
+  
+}
+#ShirtPic{
+
+    height: 450px;
+    align-items: center;
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  position: relative;
+  border-radius:20px;
+  
+
+
+}
+.greyTop{
+
+
+    background: rgb(210, 222, 241);
+    border: blue solid 2px;
+    border-top: none;
+    height: 240px;
+    width: 1500px;
+
+}
+.titleUma{
+
+color: orangered;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 45px;
+
+}
+.nossosTitle{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 35px;
+font-weight: 400;
+position: relative;
+top: -40px;
+
+}
+
+
+
+/*--------------------------*/
+#theTalent{
+height: 750px;
+width: 3820px;
+overflow: hide;
+
+}
+#moveUp{
+
+position: relative;
+top: -150px;
+
+}
+#moveUp2{
+
+position:relative;
+top:-300px;
+
+}
+#moveUp3{
+
+position:relative;
+top:-400px;
+
+
+}
+.Person1{
+    height: 450px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+}
+.Person2{
+    height: 560px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person3{
+    height: 450px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person4{
+    height: 450px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person5{
+   height: 480px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person6{
+    height: 400px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person7{
+height: 380px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+}
+.Person8{
+ height: 380px;
+background: rgb(255, 255, 255);
+width: 440px;
+border-radius: 10px;
+display: inline-block;
+margin:15px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+#space{
+
+height: 50px;
+width: 50px;
+position: relative;
+left: 3650px;
+
+
+}
+#AtravesSection{
+height: 150px;
+width: 1350px;
+
+}
+#personImage{
+border:rgb(51, 51, 83) 2px solid;
+height: 200px;
+width: 200px;
+display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top:-100px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 50px orange;
+
+
+}
+.personDescription{
+
+margin:15px;
+position: relative;
+top: -95px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 400;
+font-size: 20px;
+
+
+}
+.divideLine{
+
+    background: orange;
+    height: 1px;
+    width: 350px;
+    position: relative;
+    top: -90px;
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.Name{
+    color: orangered;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+.job{
+color: rgb(5, 18, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    top: -125px;
+}
+.scroller2{
+width: 1490px;
+overflow-x: scroll ;
+}
+.websiteSection{
+background: rgb(247, 226, 199);
+width: 1500px;
+height: 1000px;
+overflowX: hidden;
+position: relative;
+top: -700px;
+}
+.websiteBottom{
+background: rgb(247, 226, 199);
+width: 1500px;
+height: 1200px;
+overflow: hidden;
+position: relative;
+top: -3200px;
+}
+.bannerLine1{
+
+background: orangered;
+height: 2px;
+position: relative;
+top: 15px;
+
+
+}
+.bannerLine2{
+background: orangered;
+height: 2px;
+position: relative;
+top: 105px;
+}
+.banner{
+background: rgb(247, 199, 136);
+width: 8500px;
+height: 130px;
+overflow: hidden;
+position: relative;
+left: -50px;
+top: -200px;
+transform: rotate(-5deg);
+}
+.bannerText{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(36, 28, 150);
+font-size: 70px;
+position: relative;
+left:100px ;
+top: -15px;
+}
+.bannerLogo{
+height: 100px;
+position: relative;
+left: 100px;
+top: 10px;
+}
+.purpleFooter{
+background: rgb(1, 1, 128);
+height: 1100px;
+width: 5000px;
+}
+
+.vejaTitle{
+position: relative;
+left:30px;
+color: rgb(1, 1, 128);
+font-size: 50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 800;
+
+}
+#padding{
+
+    position: relative;
+    left: 50px;
+}
+.website{
+
+float: left;
+height: 200px;
+width: 300px;
+margin: 25px;
+margin
+
+}
+.square1{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-75px;
+top:-1469px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+#VnWLogo{
+
+height: 130px;
+position: relative;
+left: -230px;
+top:5px;
+
+}
+.span{
+margin-left: 35px;
+font-display: ;
+position: relative;
+top: -50px;
+font-weight:600 ;
+left: 350px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+font-size: 30px;
+
+}
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+.span:hover{
+
+
+font-weight: 700;
+
+
+
+}
+.reserve{
+
+margin-left: 55px;
+    border-radius: 30px;
+    width: 250px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(255, 224, 186);
+    top: 30px;
+    background: rgb(1, 1, 128);
+    float: left;
+    transition: height .2s, width .2s;
+    position: relative;
+    left: 1330px;
+
+}
+.reserve:hover{
+
+height: 65px;
+    width: 255px;
+    border: none;
+    background: rgb(255, 224, 186);
+    color: rgb(1, 1, 128);
+
+}
+.square1:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square2{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-425px;
+top:-1669px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square2:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square3{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-775px;
+top:-1869px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square3:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square4{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-1125px;
+top:-2069px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square4:hover{
+
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.square5{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-75px;
+top:-2020px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square5:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+
+
+
+.square6{
+    
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-425px;
+top:-2220px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square6:hover{
+    
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square7{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-775px;
+top:-2420px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square7:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square8{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-1125px;
+top:-2620px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square8:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square9{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-75px;
+top:-2570px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square9:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square10{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-425px;
+top:-2770px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square10:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square11{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-775px;
+top:-2970px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square11:hover{
+background: rgb(255, 224, 186, 0.75);
+color: rgb(16, 9, 104, 1);
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square12{
+background: rgb(16, 9, 104, 0);
+position: relative;
+color: rgb(16, 9, 104, 0);
+right:-1125px;
+top:-3170px;
+height: 200px;
+width: 300px;
+transition-delay: 0.5s;
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+}
+.square12:hover{
+   background: rgb(255, 224, 186, 0.75);
+   color: rgb(16, 9, 104, 1);
+   
+font-size: 20px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
+ 
+
+}
+.footer1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+position:absolute;
+top: 350px;
+left: 140px;
+}
+
+.footer2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+position:absolute;
+top: 350px;
+left: 650px;
+}
+.footer3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+position:absolute;
+top: 350px;
+left: 890px;
+}
+
+.footer4{
+
+color: white;
+height: 400px;
+position:absolute;
+top: 230px;
+left: 1090px;
+}
+
+.footer5{
+
+color: white;
+height: 70px;
+width: 210px;
+position:absolute;
+top: 700px;
+left: 120px;
+border-radius: 10px;
+
+
+}
+
+.footer52{
+
+position:absolute;
+top: 695px;
+left: 135px;
+background-color: white;
+height: 110px;
+width: 300px;
+border-radius: 10px;
+}
+
+.imgFooter5{
+height: 290px;
+width: 310px;
+position: relative;
+top: -95px;
+left: 11px;
+}
+.imgFooter6{
+height: 110px;
+width:265px;
+position:absolute;
+top: 695px;
+left: 450px;
+border-radius: 10px;
+}
+.icon1{
+height: 70px;
+position:absolute;
+top: 843px;
+left: 140px;
+}
+.icon2{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 225px;
+}
+.icon3{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 309px;
+}
+.icon4{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 390px;
+}
+.icon5{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 470px;
+}
+.icon6{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 550px;
+}
+.icon7{
+height: 70px;
+
+position:absolute;
+top: 843px;
+left: 635px;
+}
+.footer7{
+position:absolute;
+top: 670px;
+left: 940px;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+color: white;
+height: 40px;
+}
+.socialMedia1{
+position:absolute;
+top: 830px;
+left: 940px;
+}
+.socialMedia2{
+position:absolute;
+top: 830px;
+left: 1005px;
+}
+.socialMedia3{
+position:absolute;
+top: 830px;
+left: 1065px;
+}
+.socialMedia4{
+position:absolute;
+top: 830px;
+left: 1125px;
+}
+.socialMedia5{
+position:absolute;
+top: 830px;
+left: 1185px;
+}
+.footerLine{
+
+background: rgb(94, 92, 190);
+height: 2px;
+width: 1400px;
+
+position: absolute;
+top: 1000px;
+left:50px;
+}
+
+
+.yellowFooter{
+    text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+position: absolute;
+top: 1000px;
+left: 450px;
+color: goldenrod;
+}
+/*  Remove stuff  */
+#wrapper2{display: none;}
+
+
+
+
+
+}
+/* Mobile Stuff Now */
+
+
+@media (max-width: 376px){
+
+    /* Set the height of an element */
+#wrapper{
+    display: none;
+}
+#VnWLogoMobile{
+    position: relative;
+    top: 25px;
+left: 5px;
+width: 87px;
+float: left;
+
+}
+#line_1Mobile{
+width: 36.9px;
+height: 3px;
+background: rgb(1, 1, 128);
+display: inline-block;
+position: relative;
+top: 30px;
+left: 208px;
+}
+#line_2Mobile{
+width: 36.9px;
+height: 3px;
+background: rgb(1, 1, 128);
+
+
+position: relative;
+top: 35px;
+left:295px;
+}
+#line_3Mobile{
+width: 36.9px;
+height: 3px;
+background: rgb(1, 1, 128);
+position: relative;
+top: 45px;
+left: 295px;
+}
+#slashTitleMobile{
+position: relative;
+top: -30px;
+left: 10px;
+font-size: 50px;
+color: rgb(1, 1, 128);
+float: left;
+
+}
+#TitleMobile{
+position: relative;
+top: -5px;
+left: 15px;
+font-size: 33px;
+color: orangered;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 30px;
+
+}
+.confrenceMobile{
+height: 240px;
+position: relative;
+top: -10px;
+left: -5px;
+}
+.subTitleMobile{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 500;
+font-size: 18px;
+position: relative;
+top: -15px;
+left: 10px;
+}
+#InscrevaMobile{
+    margin-left: 55px;
+    border-radius: 30px;
+    width: 123px;
+    height: 42px;
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(255, 224, 186);
+    background: rgb(1, 1, 128);
+    float: left;
+    position: relative;
+    top: -0px;
+    left: 120px;
+}
+#WhatsappButtonMobile{
+height: 42px;
+width: 42px;
+margin-left: 15px;
+border-radius: 90%;
+position: relative;
+    top: px;
+    left: 115px;
+}
+#WhatsappImageMobile{
+height: 42px;
+border-radius: 90%;
+margin-left: -8px;
+margin-top: -3px;
+
+}
+#escolaLogo2{
+
+position: relative;
+top: 50px;
+left: 90px;
+height: 100px;
+}
+.title2mobile{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+left: 10px;
+line-height: 35px;
+}
+.subtitle2mobile{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+left: 10px;
+top: -px;
+font-weight: 400;
+}
+
+
+
+
+
+
+
+#scrollerMobile{
+
+height: 372px;
+width: 360px;
+overflow-x: scroll;
+overflow-y: hidden;
+margin-bottom: 50px;
+float: left;
+position: relative;
+left: -50;
+margin-left: -10px;
+}
+#leftArrow1Mobile{
+
+float: left;
+position: relative;
+top: 350px;
+left: -130px;
+}
+.box1Mobile{
+height: 332px;
+background: rgb(248, 239, 190);
+width: 300px;
+border-radius: 10px;
+display: inline-block;
+float: left;
+position: relative;
+margin: 15px;
+}
+#a1circle1Mobile{
+
+    background: rgb(241, 179, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 25px;
+}
+#a1circle2Mobile{
+
+    background: rgb(241, 179, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    top: 25px;
+
+}
+#a1circle3Mobile{
+
+    background: rgb(241, 179, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    top: 25px;
+
+}
+#line1Mobile{
+
+background: rgb(241, 179, 64);
+overflow: hidden;
+    height: 4px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: -45px;
+
+}
+
+#icon-Mobile{
+position: relative;
+top: -10px;
+left: 135px;
+height: 40px;
+}
+
+#icon-2Mobile{
+position: relative;
+top: 7px;
+left: 200px;
+height: 80px;
+}
+
+.box2Mobile{
+height: 332px;
+background: rgb(245, 182, 182);
+width: 300px;
+border-radius: 10px;
+display: inline-block;
+float: left;
+margin: 15px;
+position: relative;
+left: 310px;
+top: -363px;
+
+
+}
+#a2circle1Mobile{
+
+    background: rgb(241, 85, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 25px;
+}
+#a2circle2Mobile{
+
+    background: rgb(241, 85, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    top: 25px;
+
+}
+#a2circle3Mobile{
+
+    background: rgb(241, 85, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    top: 25px;
+
+}
+#line2Mobile{
+
+background: rgb(241, 85, 64);
+overflow: hidden;
+    height: 4px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: -46px;
+
+}
+.box3Mobile{
+height: 332px;
+background: rgb(253, 221, 178);
+width: 318px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+top: -165px;
+left: -425px;
+position: relative;
+margin-top: -545px;
+margin-left: 1080px;
+}
+#a3circle1Mobile{
+
+    background: rgb(241, 179, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+    top: 25px;
+}
+#a3circle2Mobile{
+
+    background: rgb(241, 179, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 55px;
+    top: 25px;
+
+}
+#a3circle3Mobile{
+
+    background: rgb(241, 179, 64);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: -20px;
+    top: 25px;
+
+}
+#line3Mobile{
+
+background: rgb(241, 179, 64);
+overflow: hidden;
+    height: 4px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: -46px;
+
+}
+.box4Mobile{
+height: 160px;
+background: rgb(163, 183, 224);
+width: 300px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+left: -620px;
+top: -163px;
+float: left;
+position: relative;
+margin-top: -545px;
+margin-left: 1605px;
+}
+#a4circle1Mobile{
+
+    background: rgb(16, 9, 104);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 25px;
+}
+#a4circle2Mobile{
+
+    background: rgb(16, 9, 104);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    top: 25px;
+
+}
+#a4circle3Mobile{
+
+    background: rgb(16, 9, 104);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    top: 25px;
+
+}
+#line4Mobile{
+
+background: rgb(16, 9, 104);
+overflow: hidden;
+    height: 4px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: -46px;
+
+}
+.box5Mobile{
+height: 160px;
+background: rgb(163, 183, 224);
+width: 300px;
+border-radius: 10px;
+display: inline-block;
+margin: 15px;
+float: left;
+position:relative;
+left: -620px;
+top: -265px;
+margin-top: -275px;
+margin-left: 1605px;
+   
+}
+#a5circle1Mobile{
+
+    background: rgb(16, 9, 104);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: 25px;
+}
+#a5circle2Mobile{
+
+    background: rgb(16, 9, 104);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 25px;
+    top: 25px;
+
+}
+#a5circle3Mobile{
+
+    background: rgb(16, 9, 104);
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    display: inline-block;
+    position: relative;
+    left: 30px;
+    top: 25px;
+
+}
+#line5Mobile{
+
+background: rgb(16, 9, 104);
+overflow: hidden;
+    height: 4px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    top: 45px;
+    left: -46px;
+
+}
+.carreiraMobile{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 600;
+position: relative;
+bottom: -200px;
+left: 20px;
+font-size: 15px;
+
+}
+.tinyTitleMobile{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 700;
+position: relative;
+bottom:-180px;
+left: 20px;
+line-height: 25px;
+font-size: 20px;
+
+
+}
+.subHeadingTinyTitleMobile{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    
+    font-weight: 500;
+    position: relative;
+    top: 160px;
+    left: 20px;
+}
+.paragraphTinyTitleMobile{
+    
+    left: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    top: 175px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+
+#computerIconBox1Mobile{
+
+    height: 10000px;
+    position: relative;
+    left: 35px;
+    top: -95px;
+    z-index: 1;
+
+}
+.lettersMobile{
+
+    margin-top:   -250px   ;
+
+}
+#computerIconBox1Mobile{
+height: 100px;
+position: relative;
+top: -110px;
+left: 350px;
+}
+#-computerIconBox2Mobile{
+
+position: relative;
+top: 10px;
+left: 200px;
+height: 80px;
+
+}
+
+
+
+
+
+#computerIconBox2Mobile{
+
+    height: 100px;
+    position: relative;
+    top: -110px;
+    left: 350px;
+
+}
+
+
+#atravesMobile{
+font-size: 15px;
+position: relative;
+left: 10px;
+top: -50px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+line-height: 17px;
+}
+#InscrevaMobile2{
+margin-left: 55px;
+    border-radius: 30px;
+    width: 123px;
+    height: 42px;
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(255, 224, 186);
+    background: rgb(1, 1, 128);
+    float: left;
+    position: relative;
+    top: -45px;
+    left: -45px;
+}
+.greyBackgroundMobile{
+
+background-color: rgb(219, 227, 241);
+position: relative;
+top: -50px;
+width: 353px;
+
+
+
+}
+#AulasTitleMobile{
+  text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+top: 15px;
+line-height: 32px;
+font-weight: 700;
+color: rgb(1, 1, 83);
+}
+#imgIconMobile{
+ display: flex;
+  justify-content: center;
+}
+#textIconMobile{
+ text-align: center;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-weight: 600;
+
+}
+#shirtmobile{
+width: 353px;
+position: relative;
+top: -50px;
+}
+#wrapper2{
+width: 360px;
+overflow:hidden;
+height: 5750px;
+
+}
+#header3Mobile{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: orangered;
+position: relative;
+left: 10px;
+top: -15px;
+}
+#subheading3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+position: relative;
+top: -15px;
+font-size: 16px;
+left: 10px;
+}
+
+#theTalentMobile{
+height: px;
+width: 2870px;
+overflow:hidden;
+
+}
+#moveUpMobile{
+
+position: relative;
+top: -150px;
+
+}
+#moveUp2Mobile{
+
+position:relative;
+top:-300px;
+
+}
+#moveUp3Mobile{
+
+position:relative;
+top:-400px;
+
+
+}
+.Person1Mobile{
+    height: 410px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+margin-top: 140px;
+left: 15px;
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+}
+.Person2Mobile{
+    height: 480px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+margin-top: 140px;
+
+float: left;
+position: relative;
+left: 25px;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person3Mobile{
+    height: 400px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+margin-top: 140px;
+float: left;
+position: relative;
+left: 35px;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person4Mobile{
+    height: 410px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+left: 45px;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person5Mobile{
+   height: 410px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+margin-top: 140px;
+left: 55px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person6Mobile{
+    height: 370px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+left: 65px;
+
+display: inline-block;
+margin-top: 140px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+.Person7Mobile{
+height: 350px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+margin-top: 140px;
+left: 85px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+}
+.Person8Mobile{
+ height: 380px;
+background: rgb(255, 255, 255);
+width: 341px;
+border-radius: 10px;
+display: inline-block;
+margin-top: 140px;
+left: 95px;
+
+float: left;
+position: relative;
+ border:rgb(51, 51, 83) 2px solid;
+
+}
+#spaceMobile{
+
+height: 50px;
+width: 50px;
+position: relative;
+left: 3650px;
+
+
+}
+#AtravesSectionMobile{
+height: 150px;
+width: 1350px;
+
+}
+#personImageMobile{
+border:rgb(51, 51, 83) 2px solid;
+height: 200px;
+width: 200px;
+display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top:-100px;
+  border-radius: 50%;
+  box-shadow: 1px 1px 50px orange;
+
+
+}
+.personDescriptionMobile{
+
+margin:15px;
+position: relative;
+top: -95px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight: 400;
+font-size: 15px;
+
+
+}
+.divideLineMobile{
+
+    background: orange;
+    height: 1px;
+    width: 310px;
+    position: relative;
+    top: -90px;
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.NameMobile{
+    color: orangered;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    position: relative;
+    top: -100px;
+}
+.jobMobile{
+color: rgb(5, 18, 71);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: center;
+    position: relative;
+    top: -125px;
+}
+.scroller2Mobile{
+width:375px;
+overflow-x: scroll ;
+position: relative;
+left: -15px;
+}
+.websiteSectionMobile{
+background: rgb(247, 226, 199);
+width: 1500px;
+height: 1000px;
+overflowX: hidden;
+position: relative;
+top: -700px;
+}
+.websiteBottomMobile{
+background: rgb(247, 226, 199);
+width: 1500px;
+height: 1200px;
+overflow: hidden;
+position: relative;
+top: -3200px;
+}
+.bannerLine1Mobile{
+
+background: orangered;
+height: 2px;
+position: relative;
+top: 15px;
+
+
+}
+.bannerLine2Mobile{
+background: orangered;
+height: 2px;
+position: relative;
+top: 105px;
+}
+.bannerMobile{
+background: rgb(247, 199, 136);
+width: 8500px;
+height: 130px;
+overflow: hidden;
+position: relative;
+left: -50px;
+top: -200px;
+transform: rotate(-5deg);
+}
+.bannerTextMobile{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(36, 28, 150);
+font-size: 70px;
+position: relative;
+left:100px ;
+top: -15px;
+}
+.bannerLogo{
+height: 100px;
+position: relative;
+left: 100px;
+top: 10px;
+}
+.purpleFooter{
+background: rgb(1, 1, 128);
+height: 1100px;
+width: 5000px;
+}
+
+.vejasection{
+width: 352px;
+height: 790px;
+background-color: rgb(250, 231, 231);
+z-index: 3;
+}
+
+.vejatitle{
+text-align: center;
+position: relative;
+padding: 25px;
+line-height: 33px;
+color: rgb(1, 1, 128);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+#leftarrowmobile{
+height: 25px;
+position: relative;
+left:10px;
+top: 210px;
+
+}
+#rightarrowmobile{
+height: 25px;
+position: relative;
+top: 210px;
+left: 305px;
+}
+
+#site1mobile{
+
+height: 150px;
+width: 250px;
+padding-left:60px ;
+}
+
+#scroller3mobile{
+
+overflow-x: scroll;
+overflow-y: hidden;
+width: 350px;
+height: 500px;
+
+}
+
+#websitesMobile{
+position: relative;
+top: -30px;
+width: 1925px;
+height:528px;
+overflow: hidden;
+}
+
+
+#sitecaptionmobile{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+float: right;
+padding-top: -60px;
+padding-bottom: 50px;
+text-align: center;
+position: relative;
+
+}
+
+#site1mobile1{
+height: 170px;
+width: 250px;
+position: relative;
+left: 50px;
+}
+
+
+
+#site1mobile2{
+height: 170px;
+width: 250px;
+position: relative;
+left: 107px;
+}
+
+#site1mobile3{
+height: 170px;
+width: 250px;
+position: relative;
+left: 164px;
+}
+
+#site1mobile4{
+height: 170px;
+width: 250px;
+position: relative;
+left: 231px;
+}
+
+#site1mobile5{
+height: 170px;
+width: 250px;
+position: relative;
+left: 288px;
+}
+
+#site1mobile6{
+height: 170px;
+width: 250px;
+position: relative;
+left: 345px;
+}
+
+#sitecaptionmobile1{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: -771px;
+}
+#sitecaptionmobile2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: -451px;
+top: -60px;
+}
+#sitecaptionmobile3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: -151px;
+top: -120px;
+}
+#sitecaptionmobile4{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: 171px;
+top: -180px;
+}
+#sitecaptionmobile5{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: 500px;
+top: -240px;
+}
+#sitecaptionmobile6{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: 795px;
+top: -300px;
+}
+#site1mobile7{
+height: 170px;
+width: 250px;
+position: relative;
+left: 50px;
+top: -260px;
+}
+
+#site1mobile8{
+height: 170px;
+width: 250px;
+position: relative;
+left: 107px;
+top: -260px;
+}
+
+#site1mobile9{
+height: 170px;
+width: 250px;
+position: relative;
+left: 164px;
+top: -260px;
+}
+
+#site1mobile10{
+height: 170px;
+width: 250px;
+position: relative;
+left: 231px;
+top: -260px;
+}
+
+#site1mobile11{
+height: 170px;
+width: 250px;
+position: relative;
+left: 288px;
+top: -260px;
+}
+
+#site1mobile12{
+height: 170px;
+width: 250px;
+position: relative;
+left: 345px;
+top: -260px;
+}
+
+#sitecaptionmobile7{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: -771px;
+top: -270px;
+
+}
+
+#sitecaptionmobile8{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: -451px;
+top: -330px;
+
+}
+
+#sitecaptionmobile9{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: -151px;
+top: -390px;
+
+}
+
+#sitecaptionmobile10{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: 171px;
+top: -445px;
+
+}
+
+#sitecaptionmobile11{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: 470px;
+top: -495px;
+}
+
+#sitecaptionmobile12{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+text-align: center;
+position: relative;
+left: 800px;
+top: -555px;
+}
+
+#footerMobile{
+
+height: 850px;
+width: 352px;
+background-color: rgb(3, 3, 94);
+overflow: hidden;
+}
+
+#footerBannerMobile{
+z-index:5;
+background: rgb(252, 210, 156);
+width: 430px;
+height: 76px;
+
+position: relative;
+left: -70px;
+top: -870px;
+transform: rotate(-5deg);
+}
+#blockmobile{
+    z-index: 10;
+position: relative;
+top: -970px;
+left: 352px;
+
+}
+
+#lineMobile1{
+
+width: 360px;
+height: 2px;
+position: relative;
+left: 65px;
+top: 8px;
+background-color: chocolate;
+}
+
+#lineMobile2{
+
+width: 360px;
+height: 2px;
+position: relative;
+left: 65px;
+top: -109px;
+background-color: chocolate;
+}
+
+.bannerlogomobile1{
+position: relative;
+    left: 65px;
+    top: 20px;
+height: 35px;
+float: left;
+
+}
+
+.bannerlogomobile2{
+
+position: relative;
+    left: 385px;
+    top: -115px;
+height: 35px;
+}
+
+.bannertext{
+position: relative;
+left: 90px;
+top: -35px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(1, 1, 128);
+font-weight: 400;
+font-size: 50px;
+}
+.para1footer{
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding: 20px;
+
+}
+.footericonmobile{
+position: relative;
+left: 15px;
+padding-right: 7px;
+height: 68px;
+}
+
+.footericonsmobile{
+
+width: 325px;
+padding: 15px;
+}
+
+.footer2{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 15px;
+color: white;
+height: 40px;
+position:relative;
+padding: 15px;
+top: -25px;
+}
+.footer3{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 15px;
+color: white;
+position:relative;
+left: 200px;
+top: -90px;
+}
+.footer7{
+position:relative;
+top: -50px;
+color: white;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 15px;
+padding: 15px;
+color: white;
+}
+
+
+.smmobile{
+position: relative;
+top: -50px;
+padding-left: 20px;
+
+}
+
+
+.footerlogobottom{
+
+display: flex;
+  justify-content: center;
+
+}
+
+.imgfooterlogobottom{
+position: relative;
+top: -25px;
+height: 100px;
+
+}
+.footerEndMobileYellow1{
+color: goldenrod;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 11px;
+float: left;
+position: relative;
+left: 30px;
+top: 30px;
+text-align: center;
+}
+
+.footerEndMobileYellow2{
+color: goldenrod;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 11px;
+position: relative;
+left: 7px;
+top: 30px;
+text-align: center;
+}
+
+.footerbottomlinemobile{
+position: relative;
+left: 20px;
+top: 34px;
+background-color: rgb(5, 85, 190);
+height: 2px;
+width: 310px;
+
+}
+
+}
+
+
